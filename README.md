@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </a>
 
 <!-- 📊 Data Analysis & Visualization -->
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 <img src="https://skillicons.dev/icons?i=excel" />
 
