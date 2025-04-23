@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </a>
-<img src="https://img.shields.io/badge/Pinecone-43B02A?style=for-the-badge&logo=pinecone&logoColor=white" />
+<img src="https://apn-portal.my.salesforce.com/servlet/servlet.ImageServer?id=0158W000009dd27QAA&oid=00DE0000000c48tMAA" />
 <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=faiss&logoColor=white" />
 
 <!-- ☁️ Cloud & DevOps -->
