@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <!-- 🧠 Machine Learning & AI -->
 <a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo-thumbnail.png" alt="Keras"/>
+  <img src="https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo-thumbnail.png" height="24" width="24" alt="Keras"/>
   
 </a>
 
