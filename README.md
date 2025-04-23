@@ -73,8 +73,8 @@ Here are some ideas to get you started:
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/opencv.png" alt="opencv"/>
 <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/selenium-test-automation.png" alt="selenium-test-automation"/>
 <img width="96" height="48" src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" />
-<img src="https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini%20API-000000?style=for-the-badge&logo=gemini&logoColor=white" />
+<img width="48" height="48" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" />
+<img width="48" height="48" src="https://c8.alamy.com/comp/2XK648J/google-gemini-logo-2XK648J.jpg" />
 <img src="https://img.shields.io/badge/HuggingFace-FF6A00?style=for-the-badge&logo=huggingface&logoColor=white" />
 
 
