@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <img width="96" height="48" src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" />
 <img width="48" height="48" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" />
 <img width="48" height="48" src="https://c8.alamy.com/comp/2XK648J/google-gemini-logo-2XK648J.jpg" />
-<img src="https://img.shields.io/badge/HuggingFace-FF6A00?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/hugging-face_app.png" alt="hugging-face_app"/>
 
 
   </p>
