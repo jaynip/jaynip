@@ -38,13 +38,11 @@ Here are some ideas to get you started:
 <!-- 🌐 Web Development -->
 <a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=react,bootstrap" />
-  <img width="48" height="48" src="https://img.icons8.com/material-rounded/24/keras.png" style={{color:"red"}} alt="keras"/>
 </a>
 
 <!-- 🧠 Machine Learning & AI -->
 <a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo-thumbnail.png" height="24" width="24" alt="Keras"/>
   
 </a>
 
@@ -72,9 +70,7 @@ Here are some ideas to get you started:
 <img width="48" height="48" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DAJFJtWIZAAC" />
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/opencv.png" alt="opencv"/>
 <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/selenium-test-automation.png" alt="selenium-test-automation"/>
-<img width="96" height="48" src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" />
 <img width="48" height="48" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" />
-<img width="70" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/1200px-Google_Gemini_logo.svg.png" />
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/hugging-face_app.png" alt="hugging-face_app"/>
 
 
