@@ -38,17 +38,18 @@ Here are some ideas to get you started:
 <!-- 🌐 Web Development -->
 <a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=react,bootstrap" />
+  <img width="24" height="24" src="https://img.icons8.com/material-rounded/24/keras.png" alt="keras"/>
 </a>
 
 <!-- 🧠 Machine Learning & AI -->
 <a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  
 </a>
 
 <!-- 📊 Data Analysis & Visualization -->
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=excel" />
+<img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
 
 <!-- 🗄️ Databases -->
 <a href="https://skillicons.dev" target="_blank">
