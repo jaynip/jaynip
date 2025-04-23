@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!-- 🌐 Web Development -->
 <a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=react,bootstrap" />
-  <img width="24" height="24" src="https://img.icons8.com/material-rounded/24/keras.png" alt="keras"/>
+  <img width="48" height="48" src="https://img.icons8.com/material-rounded/24/keras.png" style={{color:"red"}} alt="keras"/>
 </a>
 
 <!-- 🧠 Machine Learning & AI -->
