@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </a>
 <img width="48" height="48" src="https://img.icons8.com/color/48/streamlit.png" alt="streamlit"/>
-<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DAJFJtWIZAAC" />
+<img width="48" height="48" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DAJFJtWIZAAC" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white" />
