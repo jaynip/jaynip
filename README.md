@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/selenium-test-automation.png" alt="selenium-test-automation"/>
 <img width="96" height="48" src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" />
 <img width="48" height="48" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" />
-<img width="48" height="48" src="https://c8.alamy.com/comp/2XK648J/google-gemini-logo-2XK648J.jpg" />
+<img width="70" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/1200px-Google_Gemini_logo.svg.png" />
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/hugging-face_app.png" alt="hugging-face_app"/>
 
 
